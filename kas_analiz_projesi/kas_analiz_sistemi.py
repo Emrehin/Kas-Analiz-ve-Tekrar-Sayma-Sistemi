@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Bilgisayarlı Görü ve Zaman Serisi Analizi ile Otonom Antrenman Form Analizi ve Tekrar Sayma Sistemi
-Hazırlayan: Emre Durak (Öğrenci No: 232511025) - Kırşehir Ahi Evran Üniversitesi Bilgisayar Mühendisliği
+Hazırlayan: Emre Durak (Öğrenci No: 232511049) - Kırşehir Ahi Evran Üniversitesi Bilgisayar Mühendisliği
 
 Mimari Özellikler (Bitirme Projesi Kaynak ve Yöntem Raporu ile %100 Uyumlu):
 1. MediaPipe Pose (BlazePose) 33 eklem noktası (x, y, z, visibility) çıkarımı ve visibility > 0.75 eşik filtresi
